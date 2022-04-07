@@ -1,2 +1,1 @@
-# zrc-saves
-Saves dos vídeos da série Zerando RollerCoaster
+Saves dos jogos que eu faço vídeos no canal
